@@ -23,7 +23,8 @@ h3{
     padding-left: 5%;
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
+    padding-top: 15px;
 }
 .hire-me{
     text-decoration: none;
